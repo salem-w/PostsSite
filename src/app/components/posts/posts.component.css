@@ -1,0 +1,11 @@
+.title {
+    background: #1d1f21;
+    color: #fff;
+    border-bottom: 1px #000000;
+}
+
+.post {
+    background: #1d1f21;
+    color: #fff;
+    border-bottom: 1px #ccc dotted;
+}

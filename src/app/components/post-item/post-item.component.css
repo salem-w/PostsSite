@@ -1,0 +1,12 @@
+div {
+    background: #111111;
+    color: #ffffff;
+    padding: 1px 10px;
+    width: fit-content;
+    border: 1px solid red;
+    margin-bottom: 5px;
+}
+
+p.title {
+    border-bottom: 2px solid gray;
+}
